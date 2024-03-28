@@ -47,7 +47,7 @@ export function sidebar() {
     
     <div class="sidebar-footer">
       <p class="copyright">
-        Copyright 2024 <a href="">Fortune</a>
+        Copyright 2024 <a href="">SeniorDevForch</a>
       </p>
     
       <img src="./assets/images/tmdb-logo.svg" width="130" height="17" alt="the movie database logo">
